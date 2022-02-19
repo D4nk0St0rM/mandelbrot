@@ -41,7 +41,7 @@
 
 - Cloud Scheduler 
 - Create Job.
-- Name: startup-mmlinuxvm [based on your VM instance]
+- Name: startup-linuxvm [based on your VM instance]
 - For Frequency, enter 0 9 * * 1-5. [Linked to website to help determine range you wish to use)
 - Target: Pub/Sub.
 - Topic: start-instance-event.
@@ -54,7 +54,7 @@
 
 - Cloud Functions
 - Create Job.
-- Name: shutdown-mmlinuxvm [based on your VM]
+- Name: shutdown-linuxvm [based on your VM]
 - For Frequency, enter 0 9 * * 1-5. [Linked to website to help determine range you wish to use)
 - Target: Pub/Sub.
 - Topic: stop-instance-event.
