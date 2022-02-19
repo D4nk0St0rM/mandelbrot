@@ -46,7 +46,7 @@
 - Target: Pub/Sub.
 - Topic: start-instance-event.
 - Payload, [based on your criteria for your VM]
-  - {"zone":"europe-west2-c","instance":"mmlinuxvm"}
+  - {"zone":"europe-west2-c","instance":"linuxvm"}
 - Create.
 
 
