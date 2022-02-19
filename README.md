@@ -6,7 +6,8 @@ The Mandelbrot set is an example of a fractal in mathematics. It is named after 
 [source](https://simple.wikipedia.org/wiki/Mandelbrot_set)
 
 [quantum states](https://raw.githubusercontent.com/D4nk0St0rM/various_python/main/quantum_states.py)
-Part of year 1 BSc (Hons) Physics python module
+
+This being part of year 1 BSc (Hons) Physics python module
 
 - Requirements pip install periodic
 - calculates the frequency and wavelength of a photon emitted or absorbed when a hydrogen-like ion changes its quantum state
