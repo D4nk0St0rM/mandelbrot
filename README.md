@@ -15,3 +15,9 @@ This being part of year 1 BSc (Hons) Physics python module
 - tells the user whether the photon is emitted or absorbed.
 - Calculate the energy and whether a photon is emitted or absorbed by user entry of initial and final states of an electron
 - Print periodic table for reference 
+
+### [magnetic field](https://raw.githubusercontent.com/D4nk0St0rM/various_coding/main/magnetic_field.py)
+
+This being part of year 1 BSc (Hons) Physics python module
+
+Simple graphing technique to map magnetic field strength v distance
