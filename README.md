@@ -1,4 +1,4 @@
-## Various python scripts created
+## Various scripts created
 
 ### [mandelbrot](https://raw.githubusercontent.com/D4nk0St0rM/various_python_maths_science/main/mandlebrot.py)
 
